@@ -1,5 +1,5 @@
 <!--
-If your PR resolves or is related to one or multiple issues, please mention it here using "Closes #ISSUE_NUMBER" or "Related to #ISSUE_NUMBER", respectively, for each issue.
+If your PR resolves or is related to one or multiple issues, please mention so here using "Closes #ISSUE_NUMBER" or "Related to #ISSUE_NUMBER", respectively, for each issue.
 
 Please provide a summary of the changes made in this PR.
 
